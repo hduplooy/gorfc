@@ -2,7 +2,7 @@
 
 **Please rather use the official SAP library, I'm just playing around with the source and could break it**
 
-[Official](https://github.com/SAP/gorfc)
+[Official SAP Repository](https://github.com/SAP/gorfc)
 
 For more details on the SAP NetWeaver Remote Function Call (RFC) Software Development Kit (SDK) please [see its support page](https://support.sap.com/en/product/connectors/nwrfcsdk.html).
 
